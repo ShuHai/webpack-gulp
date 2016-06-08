@@ -1,0 +1,22 @@
+{
+  "name": "webpack-gulp",
+  "version": "1.0.0",
+  "description": "webpack config",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShuHai/webpack-gulp.git"
+  },
+  "author": "ShuHai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShuHai/webpack-gulp/issues"
+  },
+  "homepage": "https://github.com/ShuHai/webpack-gulp#readme",
+  "devDependencies": {
+    "webpack": "^1.13.1"
+  }
+}
